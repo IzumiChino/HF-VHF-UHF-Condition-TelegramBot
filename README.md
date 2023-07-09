@@ -3,6 +3,8 @@ This code is used to make a telegram bot which can get the daily HF/VHF/UHF cond
 
 The bot is written in Python
 
+You can read more from my blog: https://www.izumichino.tk/2023/07/07/%e8%87%aa%e5%b7%b1%e5%8a%a8%e6%89%8b%e5%86%99%e4%b8%80%e4%b8%aa%e8%8e%b7%e5%8f%96%e5%bd%93%e6%97%a5%e4%bc%a0%e6%92%ad%e9%a2%84%e6%b5%8b%e7%9a%84telegram-bot/
+
 ## 1.Preparings
 
 Please be sure that you have installed the packages that the bot needed
